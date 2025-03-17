@@ -24,4 +24,19 @@ public class RestaurantMix extends Restaurant implements Vegan, NonVegan{
     public void servire() {
 
     }
+
+    @Override
+    public void tipCarnuri() {
+
+    }
+
+    @Override
+    public void preparateCarne() {
+
+    }
+
+    @Override
+    public void timpDePreparare() {
+
+    }
 }
